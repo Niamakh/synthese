@@ -1,2 +1,2 @@
 # synthese
-<h3 style="color:red;">Ajout d'un README</h3>
+<h3>Ajout d'un README</h3>
